@@ -1,0 +1,2 @@
+# NVDIA-AGX-XAVIER
+怎麼建置NVIDIA AGX XAVIER系統，和系統建置完後的設定和要安裝的東西
